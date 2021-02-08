@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Checkout https://ac-fish-guide.herokuapp.com/
+
+Checkout https://ac-fish-guide.herokuapp.com/ for a running demo!
 
 ## Available Scripts
 
